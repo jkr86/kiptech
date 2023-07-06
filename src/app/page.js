@@ -2,7 +2,7 @@ import Head from "next/head";
 import Companies from "@/app/components/Companies";
 import Footer from "@/app/components/Footer";
 import Hero from "@/app/components/Hero";
-import Navbar from "@/app/components/Navbar";
+import Navbar from "@/app/components/Navbar1";
 import LocationAndCards from "@/app/components/LocationAndCards";
 
 export default function Home() {
