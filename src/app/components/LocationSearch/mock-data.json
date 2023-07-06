@@ -1,0 +1,54 @@
+{
+  "locations": [
+    {
+      "label": "All",
+      "value": "all"
+    },
+    {
+      "label": "NSW",
+      "value": "nsw"
+    },
+    {
+      "label": "VIC",
+      "value": "vic"
+    },
+    {
+      "label": "SA",
+      "value": "sa"
+    },
+    {
+      "label": "QLD",
+      "value": "qld"
+    },
+    {
+      "label": "TAS",
+      "value": "tas"
+    },
+    {
+      "label": "ACT",
+      "value": "act"
+    }
+  ],
+  "services": [
+    {
+      "label": "All",
+      "value": "all"
+    },
+    {
+      "label": "Dog daycare",
+      "value": "dog_daycare"
+    },
+    {
+      "label": "Dog boarding",
+      "value": "dog_boarding"
+    },
+    {
+      "label": "Cat daycare",
+      "value": "cat_daycare"
+    },
+    {
+      "label": "Grooming",
+      "value": "grooming"
+    }
+  ]
+}

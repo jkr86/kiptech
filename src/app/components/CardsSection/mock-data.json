@@ -1,0 +1,129 @@
+{
+  "centers": [
+    {
+      "name": "Kip Adelaide North",
+      "location": { "value": "sa", "label": "SA" },
+      "price": 58,
+      "cta": "#",
+      "rating": 4.9,
+      "popular":true,
+      "services": [
+        {
+          "icon": "/dog-daycare.svg",
+          "value": "dog_daycare"
+        },
+        {
+          "icon": "/dog-boarding.svg",
+          "value": "dog_boarding"
+        },
+        {
+          "icon": "/cat-boarding.svg",
+          "value": "cat_boarding"
+        }
+      ]
+    },
+    {
+        "name": "Kip Alexandria",
+        "location": { "value": "nsw", "label": "NSW" },
+        "price": 37,
+        "cta": "#",
+        "rating": 3.5,
+        "popular":false,
+        "services": [
+          {
+            "icon": "/dog-daycare.svg",
+            "value": "dog_daycare"
+          },
+          {
+            "icon": "/dog-boarding.svg",
+            "value": "dog_boarding"
+          },
+          {
+            "icon": "/dog-cat.svg",
+            "value": "pickup_available"
+          }
+        ]
+      },
+      {
+        "name": "Kip Adelaide Hills",
+        "location": { "value": "vic", "label": "VIC" },
+        "price": 62,
+        "cta": "#",
+        "rating": 3.9,
+        "popular":false,
+        "services": [
+          {
+            "icon": "/dog-daycare.svg",
+            "value": "dog_daycare"
+          },
+          {
+            "icon": "/cat-boarding.svg",
+            "value": "cat_boarding"
+          },
+          {
+            "icon": "/dog-cat.svg",
+            "value": "pickup_available"
+          }
+        ]
+      },
+      {
+        "name": "Kip Marrickville",
+        "location": { "value": "qld", "label": "QLD" },
+        "price": 38,
+        "cta": "#",
+        "rating": 4.6,
+        "popular":true,
+        "services": [
+          {
+            "icon": "/dog-boarding.svg",
+            "value": "dog_boarding"
+          },
+          {
+            "icon": "/cat-boarding.svg",
+            "value": "cat_boarding"
+          },
+          {
+            "icon": "/dog-cat.svg",
+            "value": "pickup_available"
+          }
+        ]
+      },
+      {
+        "name": "Kip Hobart",
+        "location": { "value": "tas", "label": "TAS" },
+        "price": 62,
+        "cta": "#",
+        "rating": 4.5,
+        "popular":true,
+        "services": [
+          {
+            "icon": "/dog-daycare.svg",
+            "value": "dog_daycare"
+          },
+          {
+            "icon": "/dog-cat.svg",
+            "value": "pickup_available"
+          }
+        ]
+      },
+      {
+        "name": "Kip Thomastwon",
+        "location": { "value": "act", "label": "ACT" },
+        "price": 45,
+        "cta": "#",
+        "rating": 4.8,
+        "popular":false,
+        "services": [
+          {
+            "icon": "/dog-daycare.svg",
+            "value": "dog_daycare"
+          },
+          {
+            "icon": "/dog-boarding.svg",
+            "value": "dog_boarding"
+          }
+        ]
+      }
+
+  ]
+}
